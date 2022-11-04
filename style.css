@@ -1,0 +1,26 @@
+img:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+     transform: scale(1.2); 
+     
+   }
+img{
+    width: 400px;
+    height: 200px;
+}
+h2{
+    color:#040303 ;
+    font-family: 'Poor Story', cursive;
+
+}
+a{
+    color: #CF0A0A; text-decoration: double ;
+    font-size: x-large;
+}
+
+body{
+    background-color: yellow;
+}
+h3{
+    font-size: 1.5em;
+}
